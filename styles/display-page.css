@@ -1,0 +1,41 @@
+main {
+    font-size: 0;
+    width: 800px;
+    height: 500px;
+}
+
+div.green {
+    width: 50%;
+    height: 200px;
+    background-color: green;
+    display: inline-block;
+}
+
+div.blue {
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.grey {
+    background-color: grey;
+    width: 33.33%;
+    height:300px;
+    display: inline-block;
+}
+
+.black {
+    background-color: black;
+    width: 33.33%;
+    height:300px;
+    display: inline-block;
+}
+
+.orange {
+    background-color: orange;
+    width: 33.33%;
+    height:300px;
+    display: inline-block;
+}
